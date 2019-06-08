@@ -1,2 +1,3 @@
 # column_orientation
-brainhack column orientation
+brainhack curvy cortical columns
+Konrad Wagstyl, Pilou Bazin
